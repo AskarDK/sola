@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443774867929",
+    "project_id": "sola-24a8d",
+    "storage_bucket": "sola-24a8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443774867929:android:c1e2e37062c5d16aa7a1c8",
+        "android_client_info": {
+          "package_name": "com.example.kilograpp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwbsIqrCb_FkYyfQiNRFxLvEc5USjQowM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
